@@ -1,0 +1,19 @@
+{
+  "name": "first-ci-cd",
+  "version": "1.0.0",
+  "description": "first ci cd project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BananaBear420/first-ci-cd.git"
+  },
+  "author": "Maor Galapo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BananaBear420/first-ci-cd/issues"
+  },
+  "homepage": "https://github.com/BananaBear420/first-ci-cd#readme"
+}
